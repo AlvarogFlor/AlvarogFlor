@@ -17,7 +17,7 @@
   <img align="center" alt="Alvaro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
   
-  ##
+##
   
 <div>
   <a href="https://instagram.com/alvaro.flor01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -25,5 +25,17 @@
   <a href = "mailto:alvaro.gussmao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 
 ![Snake animation](https://github.com/AlvarogFlor/AlvarogFlor/blob/output/github-contribution-grid-snake.svg)
-
+  
+##  
+  <img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-DELL_G3_3500-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  
+##
+  
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+ 
 </div>
