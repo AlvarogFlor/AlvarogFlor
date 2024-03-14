@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Álvaro Flor 👋
 
-- 🌱 Atualmente estou aprendendo JavaScript, HTML, CSS e React
+- 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na FIAP.
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Pratico CrossFit diariamente
 
